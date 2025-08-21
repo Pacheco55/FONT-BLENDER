@@ -17,7 +17,10 @@ Mezclador de fuentes con exportacion de resultados a distintos formatos de texto
 
 ¿Cansado de documentos monótonos? **FONT BLENDER** mezcla inteligentemente múltiples fuentes en un solo archivo, creando diseños únicos que capturan la atención al instante.
 
+<img width="1048" height="484" alt="Image" src="https://github.com/user-attachments/assets/a7ff2b8d-0419-4305-9dfe-b7e1e6f5b2b1" />
+
 ### 🎯 ¿Para Qué Sirve?
+
 
 - **Proyectos académicos** que necesitan destacar visualmente
 - **Presentaciones creativas** con estilo tipográfico único  
@@ -25,7 +28,6 @@ Mezclador de fuentes con exportacion de resultados a distintos formatos de texto
 - **Documentos profesionales** con un toque distintivo
 - **Arte digital** y experimentación tipográfica
 
----
 
 ## Características Exclusivas
 
@@ -34,6 +36,8 @@ Mezclador de fuentes con exportacion de resultados a distintos formatos de texto
 - **Más de 100 fuentes del sistema** disponibles para mezclar
 - Control total sobre qué fuentes incluir en tu blend
 
+![Image](https://github.com/user-attachments/assets/97674066-4cbf-4fc5-9b2d-036b5814c7fb)
+
 ### 📁 Soporte Multi-formato
 Convierte entre los formatos más populares:
 - **PDF → Word con fuentes mezcladas**
@@ -41,17 +45,22 @@ Convierte entre los formatos más populares:
 - **TXT, CSV, MD → Documentos profesionales**
 - Preservación completa del texto original
 
+![Image](https://github.com/user-attachments/assets/f639eb4c-8676-45b3-8dee-5cbb5f84a44b)
+
 ### 🖥️ Interfaz Intuitiva
 - Diseño moderno con **modo claro/oscuro**
 - Previsualización en tiempo real
 - Progreso visual de la conversión
 - **Sin conocimientos técnicos** requeridos
 
+<img width="1219" height="617" alt="Image" src="https://github.com/user-attachments/assets/ac473e2f-3c73-45fa-8bc7-915ecbf5ee83" />
 ### ⚡ Rápido y Eficiente
 - Procesamiento de documentos en segundos
 - **Conservación de todo el contenido** textual
 - Resultados listos para usar inmediatamente
 
+
+![Image](https://github.com/user-attachments/assets/af9a72ce-874d-4ea6-a412-cab4975b6d16)
 ---
 
 ## ¿Cómo Funciona?
@@ -61,6 +70,9 @@ Convierte entre los formatos más populares:
 3. **Selecciona** el formato de salida
 4. **Conversión automática** en segundos
 5. **Descarga** tu documento transformado
+
+   ![Image](https://github.com/user-attachments/assets/fb78ece0-01a8-4c62-9d33-5c28727baf53)---
+
 
 ---
 
